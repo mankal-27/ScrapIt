@@ -1,0 +1,25 @@
+{
+  "name": "scrapit",
+  "version": "1.0.0",
+  "description": "Nodejs Scrap demo",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mankal-27/ScrapIt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mankal-27/ScrapIt/issues"
+  },
+  "homepage": "https://github.com/mankal-27/ScrapIt#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.2"
+  }
+}
